@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/rom57/CLionProjects/untitled1/function.cpp
+function.h
+/impacs/rom57/CLionProjects/untitled1/function.h
+
+/impacs/rom57/CLionProjects/untitled1/function.h
+
+/impacs/rom57/CLionProjects/untitled1/main.c
+function.cpp
+/impacs/rom57/CLionProjects/untitled1/function.cpp
+stdio.h
+-
+
